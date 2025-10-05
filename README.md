@@ -3,20 +3,20 @@
 
 ---
 
-### 🧠 About Me
+### ⚡ <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/brain.svg" width="25"/> About Me
 💻 I'm an enthusiastic learner and aspiring developer who loves exploring programming languages and creating fun projects.  
 Right now, I'm on a journey to learn more about coding, games, and creative technology!
 
 ---
 
-### ⚙️ Tech Curiosity Zone
+### 🧩 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="25"/> Tech Curiosity Zone
 **Languages & Tools:**  
 `Python` • `C++` • `Java` • `JavaScript` • `Arduino`  
 *(and always exploring more!)*  
 
 ---
 
-### 🎮 Interests
+### 🎮 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/controller.svg" width="25"/> Interests
 - Game development 🕹️  
 - Software programming 💡  
 - Learning new languages & tech 🧩  
@@ -24,21 +24,21 @@ Right now, I'm on a journey to learn more about coding, games, and creative tech
 
 ---
 
-### 📚 Programming Languages I’ve Explored
+### 💻 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Programming Languages I’ve Explored
 Pascal • Basic • C • C# • C++ • Java • JavaScript • COBOL • Perl • PHP • Python • Ada • Fortran • Delphi • Swift
 
 ---
 
-### 📫 Connect with Me
-📧 **Email:** kaptanbeyy0@gmail.com  
-💬 **Discord:** kaptanbey01  
+### 📬 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" width="25"/> Connect with Me
+📧 **Email:** [kaptanbeyy0@gmail.com](mailto:kaptanbeyy0@gmail.com)  
+💬 **Discord:** <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="20"/> **kaptanbey01**
 
 ---
 
-### 🏆 GitHub Stats
+### 🏆 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="25"/> GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight)
 
 ---
 
-✨ *Always learning, always building — the journey just started!*
+✨ *Coding is not just a skill — it's a way to turn imagination into reality.*
