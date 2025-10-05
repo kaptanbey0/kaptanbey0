@@ -1,15 +1,11 @@
-# 👋 Hi there, I'm Kaptanbey0!
-
-💻 I'm an enthusiastic learner and aspiring developer who loves exploring programming languages and creating fun projects.  
-Right now, I'm on a journey to learn more about coding, games, and creative technology!
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kaptanbey0!+👋;Aspiring+Developer+%26+Game+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
 ### 🧠 About Me
-- 🌱 Currently learning: Python, C++, Java, JavaScript, and Arduino  
-- 🎮 Interested in: Game development & software programming  
-- 🧩 I love experimenting with different programming languages like Pascal, C#, COBOL, Perl, PHP, Ada, Fortran, Delphi, and Swift  
-- 😄 Fun fact: I enjoy turning ideas into simple games and playful programs  
+💻 I'm an enthusiastic learner and aspiring developer who loves exploring programming languages and creating fun projects.  
+Right now, I'm on a journey to learn more about coding, games, and creative technology!
 
 ---
 
@@ -20,8 +16,16 @@ Right now, I'm on a journey to learn more about coding, games, and creative tech
 
 ---
 
-### 🎯 Goals
-Even though I’m still learning, my goal is to build cool projects and one day create something truly amazing — maybe a full game or an app that helps others!
+### 🎮 Interests
+- Game development 🕹️  
+- Software programming 💡  
+- Learning new languages & tech 🧩  
+- Turning ideas into fun mini-projects 🚀  
+
+---
+
+### 📚 Programming Languages I’ve Explored
+Pascal • Basic • C • C# • C++ • Java • JavaScript • COBOL • Perl • PHP • Python • Ada • Fortran • Delphi • Swift
 
 ---
 
@@ -37,4 +41,4 @@ Even though I’m still learning, my goal is to build cool projects and one day 
 
 ---
 
-🚀 *Always learning, always building — the journey just started!*
+✨ *Always learning, always building — the journey just started!*
