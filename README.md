@@ -45,10 +45,6 @@ Here’s what’s in my digital toolbox ⚒️
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,c++,java,javascript,csharp,arduino&theme=tokyonight&includeNames=true"/>
-</p>
-
 ---
 
 ### 🎮 **My Interests**
