@@ -40,14 +40,19 @@
 
 ---
 
+### 🎮 **My Interests**
+- 🕹️ Game Development & Modding  
+- 💡 AI & Automation Projects  
+- 🎨 UI/UX Experiments  
+- 🧩 Exploring New Technologies Every Day  
+- 🚀 Building Tools that Make Life Easier  
+
+---
+
 ### 📫 **Connect with Me**
 <p align="center">
-  <a href="mailto:kaptanbeyy0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/kaptanbey01" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <a href="mailto:kaptanbeyy0@gmail.com" target="_blank">Email Me</a> | 
+  <a href="https://discordapp.com/users/kaptanbey01" target="_blank">Discord</a>
 </p>
 
 ---
