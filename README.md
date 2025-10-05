@@ -1,97 +1,50 @@
-<!-- 🌌 CYBER DEV PROFILE -->
-<div align="center">
-  
-# ⚡ KAPTANBEY0
-### *“Turning Curiosity Into Creation”*
-  
-![Matrix Rain](https://i.imgur.com/Cb7T4Wh.gif)
-  
-</div>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kaptanbey0!+👋;Aspiring+Developer+%26+Game+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 About Me
-Hey there, I’m **Kaptanbey0** — a curious mind who loves breaking systems, automating tasks, and creating tools that make tech more exciting.  
-I’m all about *efficiency*, *creativity*, and that satisfying “it finally works!” moment.
-
-> 💬 *"Build. Break. Fix. Repeat."* — my daily routine 😎
+### 🧠 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/brain.svg" width="25"/> About Me  
+💻 I'm an enthusiastic learner and aspiring developer who loves exploring programming languages and creating fun projects.  
+Right now, I'm on a journey to learn more about coding, games, and creative technology!
 
 ---
 
-## ⚙️ Tech Arsenal
-| Area | Tools & Technologies |
-|------|----------------------|
-| 💻 Languages | Python, C++, JavaScript, Java, C#, Arduino |
-| ⚙️ Tools | Git, VS Code, Node.js, Figma, Unity |
-| 🌐 Interests | Automation, Game Modding, Bots, Web Utilities |
-| 🎯 Focus | Optimization, Reverse Engineering, System Tweaks |
+### ⚙️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="25"/> Tech Curiosity Zone  
+**Languages & Tools:**  
+`Python` • `C++` • `Java` • `JavaScript` • `Arduino`  
+*(and always exploring more!)*  
 
 ---
 
-## 🚀 Current Focus
-- 🕹️ Creating custom automation scripts  
-- 🌍 Building localization tools (EN ↔ TR)  
-- 🧩 Experimenting with game logic & debugging systems  
-- 🧠 Learning low-level programming (C++ & ASM)
+### 🎮 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/controller.svg" width="25"/> Interests  
+- Game development 🕹️  
+- Software programming 💡  
+- Learning new languages & tech 🧩  
+- Turning ideas into fun mini-projects 🚀  
 
 ---
 
-## 💻 Featured Projects
-<p align="center">
-  <a href="https://github.com/kaptanbey0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaptanbey0&repo=AutoScript-Manager&theme=radical" /></a>
-  <a href="https://github.com/kaptanbey0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaptanbey0&repo=GamePatch-Lab&theme=radical" /></a>
-</p>
+### 💻 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Programming Languages I’ve Explored  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++ •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C# •  
+Pascal • Basic • COBOL • Perl • PHP • Ada • Fortran • Delphi • Swift
 
 ---
 
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaptanbey0&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### 📫 Connect with Me  
+
+**<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" width="20"/> Gmail:** [kaptanbeyy0@gmail.com](mailto:kaptanbeyy0@gmail.com)  
+**<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="20"/> Discord:** kaptanbey01  
 
 ---
 
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaptanbey0&theme=matrix&no-frame=true&margin-w=15" />
-</p>
+### 🏆 <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="25"/> GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight)
 
 ---
 
-## 📬 Connect with Me
-<p align="center">
-  <a href="mailto:kaptanbeyy0@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/kaptanbey01"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://github.com/kaptanbey0"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🎧 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=6A5ACD&bar_color_cover=false" alt="Now Playing on Spotify"/>
-</p>
-
----
-
-## 🧩 Random Quote
-> *“The code you write today is the foundation of your future curiosity.”*
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="GitHub Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/zC5qf3N.gif" width="60%" alt="Cyber Animation" />
-</p>
-
----
-
-<div align="center">
-
-### 🖤 *Built with code, coffee, and curiosity.*
-
-</div>
+✨ *Keep building, keep growing — every line of code writes your future.*
