@@ -1,29 +1,29 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0078FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kaptanbey0+👋;💻+Aspiring+Developer+%26+Game+Lover;🚀+Always+Building+and+Learning!)](https://git.io/typing-svg)
+<!-- ✨ Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Kaptanbey0+👋;💻+Aspiring+Developer+%26+Game+Lover;🚀+Always+Building+and+Learning!)](https://git.io/typing-svg)
 
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/> Welcome to My GitHub Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Welcome to My GitHub Profile!
 </h2>
 
 ---
 
 ### 🧠 **About Me**
-💻 I’m an enthusiastic learner and aspiring developer who loves exploring programming languages and creating fun projects.  
-🌱 Currently learning and experimenting with **game development** and **creative technology**!  
-🎯 My goal: keep improving, keep building, and never stop exploring!
+💻 I’m an **enthusiastic learner** and **aspiring developer** who loves exploring programming languages and creating fun projects.  
+🌱 Currently learning and experimenting with **game development** and **creative technology!**  
+🎯 My motto: *Keep improving, keep building, and never stop exploring!*  
 
 ---
 
 ### ⚙️ **Tech Curiosity Zone**
 **Languages & Tools:**  
 `Python` • `C++` • `Java` • `JavaScript` • `Arduino`  
-*(and always exploring more!)*  
+*(and always exploring more!)*
 
 ---
 
-### 🎮 **Interests**
+### 🎮 **My Interests**
 - 🕹️ Game Development  
 - 💡 Software Programming  
 - 🧩 Learning New Tech  
@@ -31,14 +31,33 @@
 
 ---
 
-### 💻 **Programming Languages I Use**
+### 💻 **Languages I Code With**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" />
+  </a>
+</p>
+
+---
+
+### 🌈 **Cool Animated Divider**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -57,12 +76,14 @@
 
 ### 🏆 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=default&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 ---
 
 <h3 align="center">✨ “Turn your curiosity into code, and your code into creations!” ✨</h3>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80%"/>
+</p>
