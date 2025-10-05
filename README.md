@@ -22,12 +22,12 @@
 
 ---
 
-### 📬 **Contact Me**
+### 📬 **Connect With Me**
 <p align="center">
   <a href="mailto:kaptanbeyy0@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" title="Email"/>
   </a>
-  <a href="https://discordapp.com/users/kaptanbey01">
+  <a href="https://discord.com/users/kaptanbey01" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="50" title="Discord"/>
   </a>
 </p>
