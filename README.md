@@ -40,13 +40,6 @@
 
 ---
 
-### 🌈 **Cool Animated Divider**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 📫 **Connect with Me**
 <p align="center">
   <a href="mailto:kaptanbeyy0@gmail.com" target="_blank">
@@ -63,6 +56,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false" height="165" alt="github stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="top languages"/>
+</p>
+
+<!-- 🐍 Snake Animation Under Stats -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
