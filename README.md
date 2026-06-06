@@ -1,77 +1,88 @@
-<!-- ✨ Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Kaptanbey0+👋;💻+Aspiring+Developer+%26+Game+Lover;🚀+Always+Building+and+Learning!)](https://git.io/typing-svg)
+<!-- ⚓ KAPTANBEY0 PREMIUM GITHUB PROFILE README -->
 
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Welcome to My GitHub Profile!
-</h2>
-
----
-
-### 🧠 **About Me**
-💻 I’m an **enthusiastic learner** and **aspiring developer** who loves exploring programming languages and creating fun projects.  
-🌱 Currently learning and experimenting with **game development** and **creative technology!**  
-🎯 My motto: *Keep improving, keep building, and never stop exploring!*  
-
----
-
-### ⚙️ **Languages I Use**
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <!-- ✨ Cyberpunk Animasyonlu Başlık -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=800&lines=⚓+Welcome+to+the+Bridge+of+Kaptanbey0;💻+Crafting+Premium+Extensions+%26+Automation;🔥+Bringing+Cyberpunk+Aesthetics+to+Code;🚀+Always+Building+and+Learning!" alt="Typing SVG" />
   </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER-KAPTANBEY0-ff007f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SWEAPING-00F0FF?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
-### 🎮 **My Interests**
-- 🕹️ Game Development & Modding  
-- 💡 AI & Automation Projects  
-- 🎨 UI/UX Experiments  
-- 🧩 Exploring New Technologies Every Day  
-- 🚀 Building Tools that Make Life Easier  
+<table align="center" style="border: 1px solid rgba(255,255,255,0.08); background: #0a0a0a; border-radius: 12px; border-collapse: collapse;">
+  <tr>
+    <td width="55%" valign="top" style="padding: 20px; border: none;">
+      <h3>⚡ SYSTEMS STATUS: ONLINE</h3>
+      <p>Modern arayüz tasarımlarına, akıcı mikro-animasyonlara ve yüksek hızlı otomasyon sistemlerine odaklanmış bağımsız bir geliştiriciyim.</p>
+      <ul>
+        <li>🛡️ <b>Öncelik:</b> Güvenli API entegrasyonları, rate-limit (Anti-ban) korumaları.</li>
+        <li>🎨 <b>Arayüz Felsefesi:</b> Neon parıltıları, koyu mod ve cam efekti (Glassmorphism).</li>
+        <li>🧬 <b>Sloganı:</b> <i>"Curiosity into code, code into premium creations."</i></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" style="padding: 20px; border: none; background: rgba(255,255,255,0.01);">
+      <h3>🚀 PROJECTS TARGETED</h3>
+      <ul>
+        <li>📦 <b>Chrome Extensions:</b> Discord DM Cleaner & Sweeper</li>
+        <li>👾 <b>Discord Automation:</b> RPC, Rich Presence Systems</li>
+        <li>⚙️ <b>Game Modding:</b> GameDev and Custom Utilities</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 **Connect with Me**
+### 🛠️ TECH STACK & CORE PROTOCOLS
+
 <p align="center">
-  <a href="mailto:kaptanbeyy0@gmail.com" target="_blank">Email Me</a> | 
-  <a href="https://discordapp.com/users/kaptanbey01" target="_blank">Discord</a>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 **GitHub Stats**
+### 📊 DATA STREAM & TRANSMISSIONS (STATS)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false" height="165" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="165" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF" height="165" alt="top languages"/>
 </p>
 
-<!-- 🐍 Snake Animation Under Stats -->
+<!-- 🐍 Contribution Snake Grid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 </p>
 
 ---
 
-<h3 align="center">✨ “Turn your curiosity into code, and your code into creations!” ✨</h3>
+### 📫 ESTABLISH CONNECTION
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80%"/>
+  <a href="mailto:kaptanbeyy0@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/kaptanbey01" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="85%" style="border-radius: 8px; border: 1px solid rgba(127,0,255,0.2);" />
 </p>
