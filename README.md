@@ -1,87 +1,101 @@
-<!-- ⚓ KAPTANBEY0 PREMIUM GITHUB PROFILE README -->
+<!-- ⚓ KAPTANBEY0 HYPER-PREMIUM CYBERNETIC DECK v3.2 ⚓ -->
+
+[ignoring loop detection]
 
 <p align="center">
-  <!-- ✨ Cyberpunk Animasyonlu Başlık -->
+  <!-- Dynamic visitor link tracker -->
+  <img src="https://profile-counter.glitch.me/kaptanbey0/count.svg" alt="Uptime Connections" />
+</p>
+
+<p align="center">
+  <!-- ✨ Neon Matrix Typing Diagnostics -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=800&lines=⚓+Welcome+to+the+Bridge+of+Kaptanbey0;💻+Crafting+Premium+Extensions+%26+Automation;🔥+Bringing+Cyberpunk+Aesthetics+to+Code;🚀+Always+Building+and+Learning!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=820&lines=⚓+SYS+INIT:+BRIDGE+OF+KAPTANBEY0;💻+COMPILING+PREMIUM+AUTOMATION;🔥+INJECTING+CYBERPUNK+ESTHETICS;🚀+SCANNING+DIRECTORIES...+" alt="Console Stream" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER-KAPTANBEY0-ff007f?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SWEAPING-00F0FF?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/DECK--ACCESS-GRANTED-ff007f?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F0FF?style=for-the-badge&logo=adguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI--CORE-V3.2-7f00ff?style=for-the-badge" />
 </p>
 
 ---
 
-<table align="center" style="border: 1px solid rgba(255,255,255,0.08); background: #0a0a0a; border-radius: 12px; border-collapse: collapse;">
-  <tr>
-    <td width="55%" valign="top" style="padding: 20px; border: none;">
-      <h3>⚡ SYSTEMS STATUS: ONLINE</h3>
-      <p>Modern arayüz tasarımlarına, akıcı mikro-animasyonlara ve yüksek hızlı otomasyon sistemlerine odaklanmış bağımsız bir geliştiriciyim.</p>
-      <ul>
-        <li>🛡️ <b>Öncelik:</b> Güvenli API entegrasyonları, rate-limit (Anti-ban) korumaları.</li>
-        <li>🎨 <b>Arayüz Felsefesi:</b> Neon parıltıları, koyu mod ve cam efekti (Glassmorphism).</li>
-        <li>🧬 <b>Sloganı:</b> <i>"Curiosity into code, code into premium creations."</i></li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" style="padding: 20px; border: none; background: rgba(255,255,255,0.01);">
-      <h3>🚀 PROJECTS TARGETED</h3>
-      <ul>
-        <li>📦 <b>Chrome Extensions:</b> Discord DM Cleaner & Sweeper</li>
-        <li>👾 <b>Discord Automation:</b> RPC, Rich Presence Systems</li>
-        <li>⚙️ <b>Game Modding:</b> GameDev and Custom Utilities</li>
-      </ul>
-    </td>
-  </tr>
+### 🛡️ DYNAMIC ACHIEVEMENT MATRIX
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaptanbey0&theme=dracula&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Hardware Trophies" />
+  </a>
+</p>
+
+---
+
+<table align="center" style="background-color: #0b0b0f; border: 1px solid #7f00ff; border-radius: 12px; border-collapse: separate; border-spacing: 0; width: 100%;">
+  <thead>
+    <tr>
+      <th align="left" style="padding: 15px; color: #00F0FF; border-bottom: 1px solid #7f00ff; font-family: monospace;">[+] SYSTEM LOGS</th>
+      <th align="left" style="padding: 15px; color: #ff007f; border-bottom: 1px solid #7f00ff; font-family: monospace;">[+] SECTORS OF INFLUENCE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" style="padding: 15px; font-family: sans-serif; color: #e5e5e5; line-height: 1.6;">
+        I craft secure, high-performance web extensions and system automations. Specializing in asynchronous API structures and anti-detection mechanisms, my design language blends high usability with cyberpunk visual layouts.
+        <br/><br/>
+        <b>📁 Core Values:</b> Safe data processing, HTTP 429 bypass engineering, and responsive user interfaces.
+      </td>
+      <td width="50%" valign="top" style="padding: 15px; font-family: sans-serif; color: #e5e5e5; line-height: 1.6; background-color: rgba(255,255,255,0.01);">
+        🚀 **Desktop & Web Extensions:** Designing robust modules for automated channel cleanups and settings syncs.
+        <br/><br/>
+        🕹️ **Game Development:** Constructing interactive client-server behaviors, scripts, and custom engines.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 🛠️ TECH STACK & CORE PROTOCOLS
+### 📡 MEMORY ALLOCATION (TECH STACK)
+
+#### ⚡ Primary Protocols
+*   **Core Systems:** `JavaScript`, `Node.js`, `Python`, `C#`, `C++`
+*   **Markup & Styling:** `HTML5`, `CSS3 (Vanilla)`, `TailwindCSS`
+
+#### 🎮 Interactive Engine Environments
+*   **Virtual Realities:** `Unity Engine`, `Unreal Engine`, `Godot Engine`
+*   **Physical Computing:** `Arduino`, `Hardware Interfacing`
+
+---
+
+### 📊 DYNAMIC VISUAL DIAGNOSTICS
 
 <p align="center">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="165" alt="diagnostic stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF" height="165" alt="language usage"/>
+</p>
+
+#### 📈 Coding Flow Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaptanbey0&theme=tokyo-night&bg_color=0a0a0a&hide_border=true&color=7f00ff" width="100%" alt="diagnostic graph" />
+</p>
+
+<!-- 🐍 Contribution Snake Path -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="grid animation" width="95%"/>
 </p>
 
 ---
 
-### 📊 DATA STREAM & TRANSMISSIONS (STATS)
+### ⚙️ COM-LINK PROTOCOLS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="165" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF" height="165" alt="top languages"/>
-</p>
-
-<!-- 🐍 Contribution Snake Grid -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+  <!-- Styled static badge displaying Discord Username without direct links -->
+  <img src="https://img.shields.io/badge/Discord-kaptanbey01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ID Badge" />
 </p>
 
 ---
-
-### 📫 ESTABLISH CONNECTION
-
-<p align="center">
-  <a href="mailto:kaptanbeyy0@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/kaptanbey01" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="85%" style="border-radius: 8px; border: 1px solid rgba(127,0,255,0.2);" />
