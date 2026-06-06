@@ -1,6 +1,5 @@
 <!-- ⚓ KAPTANBEY0 HYPER-PREMIUM CYBERNETIC DECK v3.2 ⚓ -->
 
-[ignoring loop detection]
 
 <p align="center">
   <!-- Dynamic stable system status indicator -->
@@ -8,9 +7,9 @@
 </p>
 
 <p align="center">
-  <!-- ✨ Neon Matrix Typing Diagnostics -->
+  <!-- ✨ Neon Matrix Typing Diagnostics - Demolab instance -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=850&lines=⚓+SYS+INIT:+BRIDGE+OF+KAPTANBEY0;💻+COMPILING+PREMIUM+AUTOMATION;🔥+INJECTING+CYBERPUNK+ESTHETICS;🚀+SCANNING+DIRECTORIES...+" alt="Console Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&color=7f00ff&center=true&vCenter=true&width=850&lines=SYS+INIT:+BRIDGE+OF+KAPTANBEY0;COMPILING+PREMIUM+AUTOMATION;INJECTING+CYBERPUNK+ESTHETICS;ALWAYS+BUILDING+AND+LEARNING" alt="Console Stream" />
   </a>
 </p>
 
