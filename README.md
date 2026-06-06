@@ -4,13 +4,13 @@
 
 <p align="center">
   <!-- Dynamic visitor link tracker -->
-  <img src="https://profile-counter.glitch.me/kaptanbey0/count.svg" alt="Uptime Connections" />
+  <img src="https://komarev.com/normal-badge/?username=kaptanbey01&color=7f00ff&style=for-the-badge&label=CONNECTIONS" alt="Uptime Connections" />
 </p>
 
 <p align="center">
   <!-- ✨ Neon Matrix Typing Diagnostics -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=820&lines=⚓+SYS+INIT:+BRIDGE+OF+KAPTANBEY0;💻+COMPILING+PREMIUM+AUTOMATION;🔥+INJECTING+CYBERPUNK+ESTHETICS;🚀+SCANNING+DIRECTORIES...+" alt="Console Stream" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7f00ff&center=true&vCenter=true&width=850&lines=⚓+SYS+INIT:+BRIDGE+OF+KAPTANBEY01;💻+COMPILING+PREMIUM+AUTOMATION;🔥+INJECTING+CYBERPUNK+ESTHETICS;🚀+SCANNING+DIRECTORIES...+" alt="Console Stream" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaptanbey0&theme=dracula&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Hardware Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kaptanbey01&theme=dracula&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Hardware Trophies" />
   </a>
 </p>
 
@@ -59,26 +59,28 @@
 
 ### 📡 MEMORY ALLOCATION (TECH STACK)
 
-#### ⚡ Primary Protocols
-*   **Core Systems:** `JavaScript`, `Node.js`, `Python`, `C#`, `C++`
-*   **Markup & Styling:** `HTML5`, `CSS3 (Vanilla)`, `TailwindCSS`
+#### 💻 Programming Languages & Frameworks
+* ⚡ **JavaScript / Node.js** — Asynchronous network engines & extensions
+* 🐍 **Python** — Automation scripts & database integration
+* 🔷 **C# / C++** — Desktop applications & game logic
+* 🎨 **HTML5 / CSS3 / TailwindCSS** — Premium interactive dashboards
 
-#### 🎮 Interactive Engine Environments
-*   **Virtual Realities:** `Unity Engine`, `Unreal Engine`, `Godot Engine`
-*   **Physical Computing:** `Arduino`, `Hardware Interfacing`
+#### 🎮 Game Development & Modding Stacks
+* 🕹️ **Unity Engine / Unreal Engine / Godot** — Game design & scripting
+* 🔌 **Arduino** — Physical computing & embedded coding
 
 ---
 
 ### 📊 DYNAMIC VISUAL DIAGNOSTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey0&show_icons=true&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="165" alt="diagnostic stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey0&layout=compact&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF" height="165" alt="language usage"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaptanbey01&show_icons=true&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="165" alt="diagnostic stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanbey01&layout=compact&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF" height="165" alt="language usage"/>
 </p>
 
 #### 📈 Coding Flow Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaptanbey0&theme=tokyo-night&bg_color=0a0a0a&hide_border=true&color=7f00ff" width="100%" alt="diagnostic graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaptanbey01&theme=tokyo-night&bg_color=0a0a0a&hide_border=true&color=7f00ff" width="100%" alt="diagnostic graph" />
 </p>
 
 <!-- 🐍 Contribution Snake Path -->
@@ -91,7 +93,7 @@
 ### ⚙️ COM-LINK PROTOCOLS
 
 <p align="center">
-  <!-- Styled static badge displaying Discord Username without direct links -->
+  <!-- Styled static badge displaying Discord Username -->
   <img src="https://img.shields.io/badge/Discord-kaptanbey01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ID Badge" />
 </p>
 
