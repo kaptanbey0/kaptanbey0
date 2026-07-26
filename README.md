@@ -1,93 +1,106 @@
-<!-- ⚓ KAPTANBEY0 HYPER-PREMIUM CYBERNETIC DECK v3.2 ⚓ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--        ORBIT AUTOMATON — NEXUS PRIME & SUBSTRATE ARCHIVE       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Orbit Automaton — Nexus Prime Core" />
+</div>
 
-<p align="center">
-  <!-- Dynamic stable system status indicator -->
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-SECURE-4ade80?style=for-the-badge&logo=statuspage&logoColor=white" alt="System Status" />
-</p>
-
-<p align="center">
-  <!-- ✨ Neon Matrix Typing Diagnostics - Demolab instance -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&color=7f00ff&center=true&vCenter=true&width=850&lines=SYS+INIT:+BRIDGE+OF+KAPTANBEY0;COMPILING+PREMIUM+AUTOMATION;INJECTING+CYBERPUNK+ESTHETICS;ALWAYS+BUILDING+AND+LEARNING" alt="Console Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=70&lines=%E2%9A%A1+Orbit+Automaton+v2.5.0+%7C+Nexus+Prime+Engine;%F0%9F%AA%90+Substrate+Anomaly+Archive+%7C+Node+7.2+Active;%F0%9F%A4%96+Discord+v14+%7C+Luau+Automation+%7C+WebGL+3D" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DECK--ACCESS-GRANTED-ff007f?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F0FF?style=for-the-badge&logo=adguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI--CORE-V3.2-7f00ff?style=for-the-badge" />
-</p>
+<br/>
 
----
+<div align="center">
 
-<table align="center" style="background-color: #0b0b0f; border: 1px solid #7f00ff; border-radius: 12px; border-collapse: separate; border-spacing: 0; width: 100%;">
-  <thead>
-    <tr>
-      <th align="left" style="padding: 15px; color: #00F0FF; border-bottom: 1px solid #7f00ff; font-family: monospace;">[+] SYSTEM LOGS</th>
-      <th align="left" style="padding: 15px; color: #ff007f; border-bottom: 1px solid #7f00ff; font-family: monospace;">[+] SECTORS OF INFLUENCE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top" style="padding: 15px; font-family: sans-serif; color: #e5e5e5; line-height: 1.6;">
-        I craft secure, high-performance web extensions and system automations. Specializing in asynchronous API structures and anti-detection mechanisms, my design language blends high usability with cyberpunk visual layouts.
-        <br/><br/>
-        <b>📁 Core Values:</b> Safe data processing, HTTP 429 bypass engineering, and responsive user interfaces.
-      </td>
-      <td width="50%" valign="top" style="padding: 15px; font-family: sans-serif; color: #e5e5e5; line-height: 1.6; background-color: rgba(255,255,255,0.01);">
-        🚀 **Desktop & Web Extensions:** Designing robust modules for automated channel cleanups and settings syncs.
-        <br/><br/>
-        🕹️ **Game Development:** Constructing interactive client-server behaviors, scripts, and custom engines.
-      </td>
-    </tr>
-  </tbody>
-</table>
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-GITHUB_PAGES-00f0ff?style=for-the-badge&logo=githubpages&logoColor=08080c)](https://kaptanbey0.github.io/orbit-automaton/)
+&nbsp;
+[![Version](https://img.shields.io/badge/VERSION-v2.5.0_PRIME-a855f7?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/kaptanbey0/orbit-automaton)
+&nbsp;
+[![License](https://img.shields.io/badge/LICENSE-MIT-22ff88?style=for-the-badge&logo=mit&logoColor=08080c)](./LICENSE)
+&nbsp;
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&logo=statuspage&logoColor=08080c)](https://kaptanbey0.github.io/orbit-automaton/)
+
+</div>
+
+<br/>
+
+<!-- ANIMATED PROFILE CARD -->
+<div align="center">
+  <img src="./assets/profile-card.svg" width="100%" alt="Orbit Automaton Profile HUD" />
+</div>
+
+<br/>
+
+<img src="./assets/wave.svg" width="100%" alt="" />
 
 ---
 
-### 📡 MEMORY ALLOCATION (TECH STACK)
+## 🌑 Overview
 
-#### 💻 Programming Languages & Frameworks
-* ⚡ **JavaScript / Node.js** — Asynchronous network engines & extensions
-* 🐍 **Python** — Automation scripts & database integration
-* 🔷 **C# / C++** — Desktop applications & game logic
-* 🎨 **HTML5 / CSS3 / TailwindCSS** — Premium interactive dashboards
+**Orbit Automaton** (v2.5.0) is an ultra-futuristic, dual-layered sci-fi control dashboard, developer portfolio, and anomaly archive engine. Built with vanilla modern HTML5, CSS3, JavaScript (ES6+), WebGL, and Three.js, it bridges high-performance developer automation with an immersive narrative ecosystem.
 
-#### 🎮 Game Development & Modding Stacks
-* 🕹️ **Unity Engine / Unreal Engine / Godot** — Game design & scripting
-* 🔌 **Arduino** — Physical computing & embedded coding
+### 🌌 Key Architecture Highlights:
+1. **Nexus Prime Core & Developer Dossier**: Real-time developer metrics, verified credentials grid, interactive sci-fi terminal interface, and developer dossier.
+2. **SUBSTRATE Anomaly Layer**: Classified anomaly archive containing recovered fragments, interactive 3D WebGL phenomena, mathematical impossibilia, and encrypted researcher logs.
 
 ---
 
-### 📊 DYNAMIC VISUAL DIAGNOSTICS
+## ⚡ Core Features
 
-<p align="center">
-  <!-- Using the stable github-stats-extended server -->
-  <img src="https://github-stats-extended.vercel.app/api?username=kaptanbey0&theme=tokyonight&hide_border=false&border_color=7f00ff&title_color=00F0FF&icon_color=ff007f" height="195" alt="diagnostic stats"/>
-</p>
-
-#### 📈 Coding Flow Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaptanbey0&theme=tokyo-night&bg_color=0a0a0a&hide_border=true&color=7f00ff" width="100%" alt="diagnostic graph" />
-</p>
-
-<!-- 🐍 Contribution Snake Path -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="grid animation" width="95%"/>
-</p>
+- 🛸 **Interactive Orbit Core HUD**: Dynamic real-time metrics, system uptime counters, active webhook monitoring, and 30-day commit telemetry graph.
+- 📜 **Verified Credentials & Licenses Grid**: Direct presentation of verified developer certifications (Discord Bot Architect, Roblox Luau Systems, Python AI Pipelines, WebGL UI).
+- 💻 **Retro Sci-Fi Terminal**: Fully functional command-line interface supporting custom commands (`access`, `scan`, `status`, `repos`, `ping`, `whoami`, `date`, `cat fragment-00`, `clear`).
+- 🌐 **7-Language i18n Engine**: Seamless live multi-language switching across all pages and UI elements (**TR, EN, DE, FR, ES, RU, JA**) without page reloads.
+- 🎨 **3D WebGL Anomaly Catalog**: Interactive Three.js canvas renderings for spatial phenomena, impossible geometry, non-Euclidean objects, and morphogenesis.
+- 📡 **Live Event Log Feed**: Real-time background observer log ticker with sound synthesis feedback.
+- 🎹 **Web Audio API Sound Synth**: Native synthesized UI sound effects, ambient audio toggle, and boot loader chimes without external audio files.
 
 ---
 
-### ⚙️ COM-LINK PROTOCOLS
+## 🗺️ System Directory
 
-<p align="center">
-  <!-- Styled static badge displaying Discord Username -->
-  <img src="https://img.shields.io/badge/Discord-kaptanbey01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ID Badge" />
-</p>
+| Page | Description | Clearance | Path |
+| :--- | :--- | :---: | :--- |
+| **Control Center** | Main Nexus Prime Dashboard & Terminal | `PUBLIC` | [`index.html`](./index.html) |
+| **Developer Dossier / CV** | Complete Personnel CV & Qualifications | `LEVEL 5` | [`cv.html`](./cv.html) |
+| **Substrate Archive** | Anomaly Fragment Index Table | `LEVEL 3` | [`archive.html`](./archive.html) |
+| **Researchers Database** | Personnel Logbook (A-07, EM, IX, Ω) | `RESTRICTED` | [`researchers.html`](./researchers.html) |
+| **Phenomena 3D** | Interactive 3D Spatial Anomaly Catalog | `ACTIVE` | [`phenomena.html`](./phenomena.html) |
+| **Impossible Vault** | Non-Euclidean Objects Simulation | `CONTAINED` | [`impossibilia.html`](./impossibilia.html) |
+| **GitHub 3D Node** | Interactive 3D External Node Graph | `CONNECTED` | [`github-universe.html`](./github-universe.html) |
+| **Containment Logs** | Chronological Sealed Breach Records | `SEALED` | [`containment-log.html`](./containment-log.html) |
+| **Morphogenesis** | Evolving Pattern Synthesizer | `EVOLVING` | [`morphogenesis.html`](./morphogenesis.html) |
+| **Fragment 00** | Secret Classified Origin Point | `CLASSIFIED` | [`fragment-00.html`](./fragment-00.html) |
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="85%" style="border-radius: 8px; border: 1px solid rgba(127,0,255,0.2);" />
-</p>
+## 🛠️ Technology Stack
+
+<div align="center">
+
+#### 🧠 Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-08080c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-08080c?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-08080c?style=for-the-badge&logo=css3&logoColor=1572B6)
+![WebGL](https://img.shields.io/badge/WebGL_3D-08080c?style=for-the-badge&logo=webgl&logoColor=990000)
+![Three.js](https://img.shields.io/badge/Three.js-08080c?style=for-the-badge&logo=three.js&logoColor=white)
+
+#### 🤖 Automation & APIs
+![Discord.js](https://img.shields.io/badge/Discord.js_v14-08080c?style=for-the-badge&logo=discord&logoColor=5865F2)
+![Luau](https://img.shields.io/badge/Luau_Roblox-08080c?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF)
+![GitHub API](https://img.shields.io/badge/GitHub_REST_API-08080c?style=for-the-badge&logo=github&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-08080c?style=for-the-badge&logo=soundcharts&logoColor=00f0ff)
+
+</div>
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
+
+Developed & Maintained by **[@kaptanbey0](https://github.com/kaptanbey0)**.
